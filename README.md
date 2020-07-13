@@ -1,10 +1,10 @@
 ## Yngie💬 
 
-**Interest : Data Analysis, NLP & UX Design**
+**Interest** : Data Analysis, NLP & UX Design
 
-**Language : Python, SQL**
+**Language** : Python, SQL
 
-**My Tech Blog is**  
+My Tech Blog is
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yngie-c.github.io/)](https://yngie-c.github.io/)
 
 ### Looking for Job

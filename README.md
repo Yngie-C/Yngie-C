@@ -5,16 +5,15 @@
 </div>
 
 ## Yngie💬 
-### NLP에 관심이 많은 기획자입니다.
+### Data Scientist Jr.
 
 ### Interest
 - NLP(Natural Language Processing)
 - Data Analysis
-- Service UX Design
+- Product Management
 
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=github&link=https://yngie-c.github.io/)](https://yngie-c.github.io/)
-[![Instagram Badge](http://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&link=https://www.instagram.com/yngie_books/)](https://www.instagram.com/yngie_books/)
 
 </div>

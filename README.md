@@ -5,7 +5,6 @@
 </div>
 
 ## Yngie💬 
-### Data Scientist Jr.
 
 ### Interest
 - NLP(Natural Language Processing)
